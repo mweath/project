@@ -9,3 +9,13 @@ adding another line
 Selection: 1
 
 additional texts
+
+
+so that we don't have to keep punching in username and password
+
+usethis::browse_github_pat()
+
+● Call `usethis::edit_r_environ()` to open '.Renviron'.
+● Store your PAT with a line like:
+  GITHUB_PAT=xxxyyyzzz
+● Make sure '.Renviron' ends with a newline!
