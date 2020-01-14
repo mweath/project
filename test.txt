@@ -22,3 +22,7 @@ usethis::browse_github_pat()
 
 
 
+usethis::use_github(protocol="https")
+
+
+
