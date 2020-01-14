@@ -18,4 +18,7 @@ usethis::browse_github_pat()
 ● Call `usethis::edit_r_environ()` to open '.Renviron'.
 ● Store your PAT with a line like:
   GITHUB_PAT=xxxyyyzzz
-● Make sure '.Renviron' ends with a newline!
+● Make sure '.Renviron' ends with a newline!'
+
+
+
